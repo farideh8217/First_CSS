@@ -1,0 +1,25 @@
+a:active{
+    background-color:green; 
+}
+a:link{
+    background-color: aqua;
+}
+a:visited{
+    background-color:yellow;
+}
+a:hover{
+    background-color: blueviolet
+}
+p:hover{
+    background-color: aqua;
+}
+
+input:focus{
+    color: red;
+}
+input:valid{
+    background-color: green;
+}
+input:invalid{
+    background-color: red;
+}
