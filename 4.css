@@ -1,0 +1,26 @@
+p:nth-child(2){
+    color: red;
+}
+p:only-child{
+    
+    color: yellow;
+}
+p:only-of-type{
+    color: darkorchid;
+}
+p::first-letter{
+    font-size: 32px;
+}
+p::first-line{
+    background-color: chartreuse;
+}
+::selection{
+    background-color: bisque;
+    color: blueviolet
+}
+#text1::before{
+    content: "farideh";
+}
+#text1::after{
+    content: "farideh";
+}
