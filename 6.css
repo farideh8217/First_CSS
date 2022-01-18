@@ -1,0 +1,13 @@
+p{
+    display: inline;
+}
+
+div#l p{
+    display: inline-block;
+    width: 500px;
+    height: 200px;
+}
+
+div#s a{
+    display: list-item;
+}
