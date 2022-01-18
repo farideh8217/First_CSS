@@ -1,0 +1,16 @@
+input[type="text"]{
+    background-color: red;
+}
+p[title *="a"]{
+    color: red;
+}
+p[title ~="web"]{
+    color: yellow;
+}
+
+ul li[title *="n"]{
+    color: fuchsia;
+}
+p[title ^="f"]{
+    color: aqua;
+}
