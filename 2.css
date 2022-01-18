@@ -1,0 +1,21 @@
+h1,p{
+    color:blue
+}
+div h1{
+    
+    color: red
+}
+#d3 > p{
+    color: blueviolet
+}
+
+#d3 +p{
+    color:yellow
+}
+#d3 ~p{
+    color:green
+}
+
+ul li{
+    color: deeppink
+}
