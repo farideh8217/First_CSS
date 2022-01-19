@@ -1,0 +1,21 @@
+ul{
+    list-style-type: upper-alpha;
+}
+table,th,td{
+    border:2px;
+    border-style:inset;
+    border-collapse: collapse;
+    border-color: red;
+}
+table{
+    border-collapse: collapse;
+    width: 700;
+    height: 170px;
+    text-align: center;
+}
+td{
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: red;
+}
