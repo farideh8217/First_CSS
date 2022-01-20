@@ -1,0 +1,22 @@
+.box{
+    width: 200px;
+    height: 200px;
+}
+#box1{
+    background-color: deeppink;
+    /*position: static;
+    left: 100px;*/
+    /*position: relative;
+    top: 30px;*/
+    
+}
+
+#box2{
+    background-color: orange;
+    /*position: fixed;*/
+}
+#box3{
+    background-color: yellow;
+    position: sticky;
+    right: 0px;
+}
