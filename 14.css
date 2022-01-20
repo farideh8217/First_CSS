@@ -1,0 +1,34 @@
+#parent{
+    background-color: yellow;
+    overflow: hidden;
+}
+
+.box{
+    width: 150px;
+    height: 150px;
+}
+#box1{
+    background-color: blue;
+    height: 500px;
+    float: right;
+}
+#box2{
+    background-color: red;
+    float: right;
+}
+#box3{
+    background-color: lime;
+}
+#box4{
+    width: 800px;
+    height: 400px;
+    background-color: orange;
+    margin: auto;
+}
+#box4 img{
+    float: left;
+     margin: 20px;   
+}
+p{
+    text-align: justify;
+}
