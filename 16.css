@@ -1,0 +1,5 @@
+p{
+    margin: 100px;
+    border: 20px solid transparent;
+    border-image: url(2.png) 300 round;
+}
