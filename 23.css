@@ -1,0 +1,10 @@
+img{
+    filter: blur(5px);
+    filter: brightness(20%);/*roshanaee tasvir*/
+    filter: contrast(150%);
+    filter: hue-rotate(30deg);  /*ranghara tire va roshan mikonad*/
+    filter: invert(0.7);/*rang hara makos mikonad*/
+    filter: opacity(90%);
+    filter: saturate(0);/*sefr yani siah sefid harcheghadr adad bishtar shavad rangitar mishavad*/
+    filter: sepia();
+}
