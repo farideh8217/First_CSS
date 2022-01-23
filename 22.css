@@ -1,0 +1,27 @@
+@keyframes firstanim{
+    from{
+        color: limegreen;
+    }
+    to{
+        color: red;
+        transform: perspective(500px)rotateX(60deg);
+        transform: translate(200px,200px);
+        
+    }
+}
+
+
+
+#text{
+    text-align: center;
+    font-size: 70px;
+    font-weight: bold;
+    color: limegreen;
+    animation-name:firstanim;
+    animation-duration: 2s;
+    animation-timing-function: ease;
+    animation-delay: 2s;
+    animation-iteration-count: infinite;
+    animation-direction: reverse;
+    animation-fill-mode: forwards;     
+}
